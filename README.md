@@ -2,7 +2,7 @@
 
 ![Example of presentation using the template](https://github.com/mthulin/UoE-beamer/raw/master/example.png)
 
-To use the template for your beamer presentation, add
+To use the template for your beamer presentation, place **beamerthemeUoE.sty**, **sidebarlogo.png** and **uoe-logo-inv.png** in the same folder as your **.tex** file and add
 
     \usetheme{UoE}
 
